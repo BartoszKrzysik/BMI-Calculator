@@ -1,3 +1,5 @@
 # BMI-Calculator
-gukgkjh
-sdsad
+Bartosz Krzysik
+Jakub Kochana
+Hubert Gołda
+Grzegorz Kawecki
