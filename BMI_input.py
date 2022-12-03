@@ -20,6 +20,12 @@ for i in range(no_osob):
         name = []
         name.append(imie)
         #name jako nazwa listy + imię w arg0
+        nazwisko = input("Wpisz nazwisko")
+        name.append(nazwisko)
+        #nazwisko jako kolejny argument
+        plec = input("Wpisz plec K/M")
+        name.append(plec)
+        #kolejny argument plec
         height = float(input("Wpisz wzrost w centymetrach"))
         height = height / 100
         wzrost = wzrost + str(height)
@@ -42,6 +48,12 @@ for i in range(no_osob):
         imie = name
         name = []
         name.append(imie)
+        nazwisko = input("Wpisz nazwisko")
+        name.append(nazwisko)
+        #nazwisko jako kolejny argument
+        plec = input("Wpisz plec K/M")
+        name.append(plec)
+        #kolejny argument plec
         print("Wpisz wzrost")
         h_ft = float(input("Wpisz ilosc stop"))
         h_inch = float(input("Wpisz ilosc cali"))
