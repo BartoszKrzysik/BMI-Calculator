@@ -1,3 +1,5 @@
+import json
+#import bibliotek
 List = []
 #lista z osobami
 no_osob = int(input("Wpisz liczbe osob"))
@@ -74,7 +76,6 @@ for i in range(no_osob):
         bmi = bmi + str(BMI)
         name.append(bmi)
         List.append(name)
-import json
 with open('Wyniki.txt', 'w') as f:
-    f.write(json.dumps(List))
+    f.write(json.dumps(List, indent = 4))
 #zapisanie danych w txt
