@@ -8,3 +8,4 @@ def chart():
     for i in ax.containers:
         ax.bar_label(i,)
     plt.show()
+fgh
