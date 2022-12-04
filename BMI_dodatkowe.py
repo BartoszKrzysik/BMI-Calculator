@@ -9,6 +9,6 @@ def wypisz(limit):
     i = 1
     while i < dlugosc:
         if float(data[i][5]) >= limit:
-            print(data[i][0], data[i][1], "ma bmi wieksze niz", limit, "\n")
+            print(data[i][0], data[i][1], "ma bmi wieksze niz", limit, "wynoszace:",data[i][5] ,"\n")
 
         i = i + 1
