@@ -16,3 +16,4 @@ with open(filepath) as csvfile:
             BMI = round(waga / (wzrost * wzrost),2)
             wierszwynikowy = wiersz.append(str(BMI))
             writer.writerow(wiersz)
+            
