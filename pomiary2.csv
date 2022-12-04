@@ -1,8 +1,7 @@
-imie;nazwisko;plec;wzrost;waga
+Imie;Nazwisko;Plec;Wzrost;Waga
 Marian;Nowak;M;186;86.4
 Katarzyna;Chomik;K;157;52.3
 Amelia;Sosna;K;164;81.3
-Maria;Nazaretka;K;168;54.1
 Zbigniew;Zabawa;M;172;98.7
 Norbert;Domino;M;187;83.6
 Krystyna;Bajoro;K;159;48.7
@@ -22,3 +21,4 @@ Edward;Drozd;M;177;83.5
 Iga;Szafa;K;178;78.4
 Maciej;Junior;M;180;76.3
 Konrad;Niemiec;M;183;73.4
+Maria;Kowalska;K;156;50.7
