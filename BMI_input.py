@@ -1,7 +1,8 @@
-import csv
-# import bibliotek
-
 def wsadzanie():
+
+    import csv
+    # import bibliotek
+
     List = []
     # lista z osobami
     no_osob = int(input("Wpisz liczbe osob: "))
